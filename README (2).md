@@ -19,7 +19,7 @@ This project analyzes data science job salaries using **SQL** for data analysis 
 
 - 🌍 **Global roles** pay nearly 2x more than Indian roles
 - 👩‍💼 **Senior-level roles** account for 77% of total salary distribution
-- 🏠 **Remote jobs** have the highest average salary (~155K USD)
+- 🏠 **In-Person job** have the highest average salary (~155K USD)
 - 🏢 **Large companies** consistently offer higher pay
 - 🧪 Top-paying roles in India include:
   - AI Scientist
