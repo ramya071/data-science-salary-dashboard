@@ -8,7 +8,7 @@ This project analyzes data science job salaries using **SQL** for data analysis 
 ## 📊 Dashboard Previews
 
 ### 🔹 Page 1 – Global vs India Salary Breakdown
-![Dashboard Page 1](dashboard_1.png)
+![Dashboard Page 1](dashaboard_1.png)
 
 ### 🔹 Page 2 – Salary Insights by Role & Company Size
 ![Dashboard Page 2](dashboard_2.png)
@@ -51,8 +51,8 @@ Data-Science-Job-Salaries-Analysis/
 
 ## 📬 Connect with Me
 
-- 🔗 [LinkedIn – Ramya Hanumantharaju](https://linkedin.com/in/ramya-hanumantharaju)
-- 💌 Email: ramyahanumantharaju@gmail.com
+- 🔗 [LinkedIn – Ramya Hanumantharaju](https://www.linkedin.com/in/ramyahanumantharaju)
+- 💌 Email: ramyahanumantharaju158@gmail.com
 
 ---
 
